@@ -11,4 +11,4 @@ redirect_from:
 
 ## Download
 
-* To Download my offical transcript in Computer Science (Major), click [here](/files/transcript.pdf)
+* To Download my unoffical transcript in Computer Science (Major), click [here](/files/transcript.pdf)
