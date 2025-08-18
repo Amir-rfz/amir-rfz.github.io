@@ -12,4 +12,4 @@ redirect_from:
 
 * Diploma in Mathematics and Physics, Ario Mosallanezhad Highschool
 
-You can read more about my education in my CV. You can download my CV by clicking [here](/files/AmirRFZ-CV-EuroPass.pdf)
+You can read more about my education in my CV. You can download my CV by clicking [here](/files/Amirhossein_Arefzadeh_CV.pdf)

@@ -10,4 +10,4 @@ redirect_from:
 
 ## Download
 
-* To Download my latest CV, click [here](/files/AmirRFZ-CV-EuroPass.pdf)
+* To Download my latest CV, click [here](/files/Amirhossein_Arefzadeh_CV.pdf)
