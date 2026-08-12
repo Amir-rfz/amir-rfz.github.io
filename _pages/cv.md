@@ -10,4 +10,4 @@ redirect_from:
 
 ## Download
 
-* To Download my latest CV, click [here](/files/Amirhossein_Arefzadeh_CV.pdf)
+You can [download my latest CV here](/files/Amirhossein_Arefzadeh_CV.pdf).
